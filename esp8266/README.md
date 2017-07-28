@@ -1,3 +1,3 @@
 # ivy
 
-Files and scheatics for ESP8266 clients
+Files and schematics for ESP8266 clients
